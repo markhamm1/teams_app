@@ -1,0 +1,7 @@
+{
+  id: team.id,
+  location: team.location,
+  nickname: team.nickname,
+  song: team.song,
+  championships: team.championships
+}
